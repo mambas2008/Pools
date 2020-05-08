@@ -1,4 +1,4 @@
-#!/bin/sh export 
+
 GPU_MAX_HEAP_SIZE=100export 
 GPU_MAX_USE_SYNC_OBJECTS=1export 
 GPU_SINGLE_ALLOC_PERCENT=100export 
